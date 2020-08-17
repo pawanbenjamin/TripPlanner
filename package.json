@@ -1,7 +1,6 @@
 {
-  "name": "TripPlanner",
+  "name": "tripplanner",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +12,17 @@
   "devDependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "dependencies": {
+    "mapbox-gl": "^1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namrathapmd/TripPlanner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/namrathapmd/TripPlanner/issues"
+  },
+  "homepage": "https://github.com/namrathapmd/TripPlanner#readme",
+  "description": ""
 }
